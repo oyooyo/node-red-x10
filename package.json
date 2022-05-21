@@ -23,7 +23,7 @@
 	},
 	"files": [
 		"x10.html",
-		"x10.js",
+		"x10.js"
 	],
 	"keywords": [
 		"node-red"
