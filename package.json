@@ -1,5 +1,5 @@
 {
-	"name": "@oyooyo/node-red-x10",
+	"name": "@oyo/node-red-x10",
 	"version": "0.1.0",
 	"description": "A Node-RED node for processing events from a X10 remote control",
 	"scripts": {
