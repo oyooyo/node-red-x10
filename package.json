@@ -1,0 +1,37 @@
+{
+	"name": "@oyooyo/node-red-x10",
+	"version": "0.1.0",
+	"description": "A Node-RED node for processing events from a X10 remote control",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oyooyo/node-red-x10.git"
+	},
+	"homepage": "https://oyooyo.github.io/node-red-x10",
+	"author": {
+		"name": "oyooyo"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/oyooyo/node-red-x10/issues"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"usb": "^2.4.1"
+	},
+	"files": [
+		"x10.html",
+		"x10.js",
+	],
+	"keywords": [
+		"node-red"
+	],
+	"node-red": {
+		"version": ">=2.0.0",
+		"nodes": {
+			"x10": "x10.js"
+		}
+	}
+}
