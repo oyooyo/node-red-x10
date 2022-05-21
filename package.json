@@ -25,6 +25,9 @@
 		"x10.html",
 		"x10.js"
 	],
+	"engines": {
+		"node": ">=14.0.0"
+	},
 	"keywords": [
 		"node-red"
 	],
