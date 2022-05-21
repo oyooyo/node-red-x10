@@ -1,6 +1,6 @@
 {
 	"name": "@oyo/node-red-x10",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "A Node-RED node for processing events from a X10 remote control",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,6 @@
 	"bugs": {
 		"url": "https://github.com/oyooyo/node-red-x10/issues"
 	},
-	"license": "ISC",
 	"dependencies": {
 		"usb": "^2.4.1"
 	},
